@@ -3,7 +3,7 @@ package pengguna;
 public class Mhs extends User{
     private String nama;
     private String nim;
-    private int smt;
+    private int smt; 
 
 public Mhs (String username, String password){ super("username", "password");
 }
