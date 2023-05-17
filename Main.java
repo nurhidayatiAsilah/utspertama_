@@ -5,7 +5,7 @@ class Main {
 
         mhs.setNama("Nur Hidayati Asilah");
         mhs.setNim("G.111.20.0020");
-        mhs.setSmt("6");
+        mhs.setSmt(6);
 
         System.out.println("Nama Mhs: " + mhs.getNama());
         System.out.println("Nim Mhs: " + mhs.getNim());
